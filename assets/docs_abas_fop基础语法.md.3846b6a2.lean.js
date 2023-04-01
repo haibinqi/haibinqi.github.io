@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.0e180df0.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/abas/fop基础语法.md"}'),o={name:"docs/abas/fop基础语法.md"};function s(r,c,n,_,p,d){return t(),a("div")}const m=e(o,[["render",s]]);export{i as __pageData,m as default};

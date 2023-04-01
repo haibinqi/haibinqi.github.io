@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.0e180df0.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/abas/excel打印.md"}'),c={name:"docs/abas/excel打印.md"};function s(o,r,n,_,d,p){return t(),a("div")}const m=e(c,[["render",s]]);export{l as __pageData,m as default};
